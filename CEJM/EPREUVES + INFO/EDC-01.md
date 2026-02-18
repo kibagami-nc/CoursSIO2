@@ -31,6 +31,12 @@
 - Définition des termes
 - Approfondissenment avec des éléments de l'annexe 
 
+### Construction réponse
+
+- Rappel des faits
+- Regles de droit, économie ou management + éléments intéréssent
+- Solutions + Application droit aux faits = ce qu'il est
+
 ### Chaque dossier est dominé par une matière:
 
 - Economie
